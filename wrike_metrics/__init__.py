@@ -12,6 +12,7 @@ import math
 import time
 import os
 from pathlib import Path
+import arrow
 
 class PerfMetrics:
     """ Compute performance metrics from task on Wrike's platform. """
@@ -19,21 +20,65 @@ class PerfMetrics:
     def __init__(self):
         self.root = str(Path(__file__).parents[0])        
         
-        # Get Wrike credentials. The token must be stored in a JSON-formatted file named 'wrike.credentials'
-        with open(os.path.join(self.root,'wrike.credentials'),'r') as f:
-            self.__cred = json.load(f)
+        self.__cred = None
         
         self.tasks = None
         self.comments = None
         self.attachments = None
         self.combined = None
+        
+        # Performance metrics
+        self.completedCount = 0
+        self.completedDict = {}
+        
+        self.openCount = 0
+        self.openDict = {}
+
+    def get_credentials(self):
+        """ Read the credentials file for access to Wrike. 
+        
+        The token must be stored in a JSON-formatted file named 'wrike.credentials'.
+        
+        """
+        
+        iterLimit = 1
+        iterIdx = 0
+        while iterIdx<=iterLimit:
+            try:
+                with open(os.path.join(self.root,'wrike.credentials'),'r') as f:
+                    return(json.load(f))
+                break
+            except (json.JSONDecodeError, FileNotFoundError):       # file is unreadable or does not exist
+                print('Credentials file not found.')
+                self.set_credentials()
+
+                iterIdx+=1        
+
+    def set_credentials(self):
+        """ Set or reset credentials. """
+        
+        import re
+        
+        credDict = {}
+        print('\nPlease input your credentials\n\n')
+        credDict['token'] = input('API token: ')
+        
+        # Remove quotes, if app
+        for keyVal in credDict.keys():
+            credDict[keyVal] = re.sub('\"|\'','',credDict[keyVal])
+        
+        with open(os.path.join(self.root,'wrike.credentials'),'w') as fp:
+            json.dump(credDict,fp,indent=4)           
 
     def get_tasks(self):
         """ Get the tasks from the Wrike platform. """
         
         # Define the v3 Wrike URI
         urlPrefix = 'https://www.wrike.com/api/v3/'
+        
         # Define the authorization via permanent token. This token (defined in wrike.credentials['token']) links to the account to calculate metrics.
+        if self.__cred is None:
+            self.__cred = self.get_credentials()
         headers = {'Authorization': 'bearer {}'.format(self.__cred['token'])}        
         
         # Get the task summaries, comments, and attachments and return just the 'data' in JSON format
@@ -100,7 +145,7 @@ class PerfMetrics:
     def write_files(self):
         """ Write the Wrike data to files. """
         
-        # get_tasks if haven't already
+        # get_tasks() if haven't already
         if self.combined is None:
             self.get_tasks()
         
@@ -108,7 +153,14 @@ class PerfMetrics:
             # Dump the JSON to the specified file in pretty format (4 indents per section)
             with open(os.path.join(self.root,'wrike_files',valname+'.json'),'w+') as fp:
                 json.dump(getattr(self,valname),fp,indent=4)
+                
+    def load_tasks(self):
+        """ Load Wrike tasks from the files written in write_files(). """
 
+        for valname in ['tasks','comments','attachments','combined']:
+            # Dump the JSON to the specified file in pretty format (4 indents per section)
+            with open(os.path.join(self.root,'wrike_files',valname+'.json'),'r') as fp:
+                setattr(self,valname,json.load(fp))
     
 if __name__ == '__main__':
     wrikeTasks = PerfMetrics()    

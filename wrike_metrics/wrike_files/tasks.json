@@ -1,0 +1,4013 @@
+[
+    {
+        "id": "IEAB7KHGKQHSN2FL",
+        "accountId": "IEAB7KHG",
+        "title": "Create pilot for public release",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T16:28:23Z",
+        "updatedDate": "2018-07-20T23:06:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=254208171",
+        "priority": "218fe8007fffffffffff9800"
+    },
+    {
+        "id": "IEAB7KHGKQHUN6JT",
+        "accountId": "IEAB7KHG",
+        "title": "Ashley Sonoff (What Works Cities Slack) re update of their data training program for their staff",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-20T19:41:57Z",
+        "updatedDate": "2018-07-20T19:42:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=256309555",
+        "priority": "2244c4007fffffffffff4800"
+    },
+    {
+        "id": "IEAB7KHGKQHUKPTZ",
+        "accountId": "IEAB7KHG",
+        "title": "Create text alert system",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-20T15:07:43Z",
+        "updatedDate": "2018-07-20T15:07:58Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=256196217",
+        "priority": "223aa8008000000000001c00"
+    },
+    {
+        "id": "IEAB7KHGKQHSNYRQ",
+        "accountId": "IEAB7KHG",
+        "title": "Update all Portal data (REQUIRED BEFORE OPENBOOK LAUNCH)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T16:24:39Z",
+        "updatedDate": "2018-07-19T15:16:44Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-13T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=254206512",
+        "priority": "218fb0008000000000001800"
+    },
+    {
+        "id": "IEAB7KHGKQHTHLDC",
+        "accountId": "IEAB7KHG",
+        "title": "Tell Justin the official launch date and how their publicity should fold into ours",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-17T15:34:35Z",
+        "updatedDate": "2018-07-19T14:13:25Z",
+        "completedDate": "2018-07-19T14:13:25Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=255044706",
+        "priority": "21d754008000000000001c00"
+    },
+    {
+        "id": "IEAB7KHGKQHTY5YM",
+        "accountId": "IEAB7KHG",
+        "title": "Merge 'socrata_working' with 'master' on `socrata`",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T22:31:11Z",
+        "updatedDate": "2018-07-18T22:31:21Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255620876",
+        "priority": "220780008000000000009c00"
+    },
+    {
+        "id": "IEAB7KHGKQHTYTFG",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with NERD Club about SCGC Demo",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:40:40Z",
+        "updatedDate": "2018-07-18T21:43:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2880,
+            "start": "2018-08-10T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255610022",
+        "priority": "2206ac00800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQHTYSY3",
+        "accountId": "IEAB7KHG",
+        "title": "Get with Chris Martinez and look at some demos",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:39:05Z",
+        "updatedDate": "2018-07-18T21:40:59Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255609627",
+        "priority": "2206a8008000000000006800"
+    },
+    {
+        "id": "IEAB7KHGKQHFQKMB",
+        "accountId": "IEAB7KHG",
+        "title": "Ask Socrata if they were contacted by Douglas County / anyone else re the Alexa Skill",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T22:02:21Z",
+        "updatedDate": "2018-07-18T21:38:20Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=240658817",
+        "priority": "1c63b4007fffffffffff9400"
+    },
+    {
+        "id": "IEAB7KHGKQHTYR6P",
+        "accountId": "IEAB7KHG",
+        "title": "Get license for Power BI (through Michelle)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:36:13Z",
+        "updatedDate": "2018-07-18T21:37:53Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-27T09:00:00",
+            "due": "2018-08-31T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255608783",
+        "priority": "220698008000000000006800"
+    },
+    {
+        "id": "IEAB7KHGKQHTYSDZ",
+        "accountId": "IEAB7KHG",
+        "title": "Study Power BI / Socrata connector",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:36:59Z",
+        "updatedDate": "2018-07-18T21:37:10Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255608953",
+        "priority": "22069c008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQHTYR4Y",
+        "accountId": "IEAB7KHG",
+        "title": "Look through Power BI book",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:35:49Z",
+        "updatedDate": "2018-07-18T21:36:01Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-10T09:00:00",
+            "due": "2018-09-14T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255608728",
+        "priority": "220698008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQHTYGZG",
+        "accountId": "IEAB7KHG",
+        "title": "Contact Jan Sawyer (Special Events Coordinator) re connecting to Alexa",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T21:01:25Z",
+        "updatedDate": "2018-07-18T21:34:03Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-18T09:00:00",
+            "due": "2018-07-18T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=255597350",
+        "priority": "220548008000000000009c00"
+    },
+    {
+        "id": "IEAB7KHGKQHNXCSX",
+        "accountId": "IEAB7KHG",
+        "title": "Ask Jim to redirect the 'read the FAQ' link on the inquiry form page to the Expenditures module",
+        "status": "Cancelled",
+        "importance": "Normal",
+        "createdDate": "2018-06-26T21:10:31Z",
+        "updatedDate": "2018-07-18T20:46:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAD",
+        "permalink": "https://www.wrike.com/open.htm?id=249268823",
+        "priority": "1fd0b8008000000000004000"
+    },
+    {
+        "id": "IEAB7KHGKQHRDCLR",
+        "accountId": "IEAB7KHG",
+        "title": "Review Utilities privacy checklist",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T23:00:45Z",
+        "updatedDate": "2018-07-18T16:21:47Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252807537",
+        "priority": "211584007fffffffffff7800"
+    },
+    {
+        "id": "IEAB7KHGKQHTUO3L",
+        "accountId": "IEAB7KHG",
+        "title": "Look through the Utilities 'Table of Applications' Access tool",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T16:16:47Z",
+        "updatedDate": "2018-07-18T16:18:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255474539",
+        "priority": "21fb20008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHTUMBM",
+        "accountId": "IEAB7KHG",
+        "title": "Include the new Asset Inventory dataset into the Socrata Performance Metrics",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T16:09:54Z",
+        "updatedDate": "2018-07-18T16:10:00Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255471660",
+        "priority": "21fac4008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQHTT2BW",
+        "accountId": "IEAB7KHG",
+        "title": "Do I want to be the organizer of the Fort Collins Open Government meetup?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T15:22:29Z",
+        "updatedDate": "2018-07-18T15:24:11Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-03T09:00:00",
+            "due": "2018-09-07T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255453238",
+        "priority": "21f8dc008000000000000800"
+    },
+    {
+        "id": "IEAB7KHGKQHTTZ5B",
+        "accountId": "IEAB7KHG",
+        "title": "Register to participate in Fort Collins Open Data meetup(s)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T15:21:59Z",
+        "updatedDate": "2018-07-18T15:22:12Z",
+        "completedDate": "2018-07-18T15:22:12Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=255453089",
+        "priority": "21f8d8008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQHPFRR5",
+        "accountId": "IEAB7KHG",
+        "title": "Reply to Ginny/group re 'Urban Data Pioneers' email",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-02T15:00:00Z",
+        "updatedDate": "2018-07-18T15:21:36Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=250791485",
+        "priority": "205ec000800000000000bc00"
+    },
+    {
+        "id": "IEAB7KHGKQHTTQGA",
+        "accountId": "IEAB7KHG",
+        "title": "From Liz (Data Working Group): Specifically talk with planning department about the comprehensive plan",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T14:58:28Z",
+        "updatedDate": "2018-07-18T15:00:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-24T09:00:00",
+            "due": "2018-09-28T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=255443136",
+        "priority": "21f7f8008000000000002400"
+    },
+    {
+        "id": "IEAB7KHGKQHTTOYH",
+        "accountId": "IEAB7KHG",
+        "title": "Complete CareerConnect self review",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-18T14:56:27Z",
+        "updatedDate": "2018-07-18T14:56:34Z",
+        "completedDate": "2018-07-18T14:56:34Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=255441671",
+        "priority": "21f78400800000000000b000"
+    },
+    {
+        "id": "IEAB7KHGKQHSNVDV",
+        "accountId": "IEAB7KHG",
+        "title": "David re OpenBook meeting followup",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T16:16:53Z",
+        "updatedDate": "2018-07-17T15:33:55Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-13T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=254202997",
+        "priority": "218f3c00800000000000a000"
+    },
+    {
+        "id": "IEAB7KHGKQHS3GHX",
+        "accountId": "IEAB7KHG",
+        "title": "Set up backend for data request tracking",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-16T16:04:52Z",
+        "updatedDate": "2018-07-16T18:32:36Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=254646519",
+        "priority": "21b358008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHLLMEL",
+        "accountId": "IEAB7KHG",
+        "title": "Install db on `socrata`",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-18T16:44:20Z",
+        "updatedDate": "2018-07-16T18:32:21Z",
+        "completedDate": "2018-07-16T18:32:21Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=246788235",
+        "priority": "1ed14c008000000000003400"
+    },
+    {
+        "id": "IEAB7KHGKQHE4CF4",
+        "accountId": "IEAB7KHG",
+        "title": "Look into asset list and asset inventory",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-05-23T22:43:15Z",
+        "updatedDate": "2018-07-16T17:44:56Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=239995068",
+        "priority": "1c2818008000000000002400"
+    },
+    {
+        "id": "IEAB7KHGKQHRC6MD",
+        "accountId": "IEAB7KHG",
+        "title": "Review the 'Playbook for joining a civic data standard' (linked from within the Data Governance Handbook)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T22:39:16Z",
+        "updatedDate": "2018-07-16T17:22:56Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252803459",
+        "priority": "211500008000000000004800"
+    },
+    {
+        "id": "IEAB7KHGKQHRDAYW",
+        "accountId": "IEAB7KHG",
+        "title": "Add 'initial priority', 'revised priority', and 'final priority' to Open Data Prioritization Toolkit.xlsx",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T22:52:55Z",
+        "updatedDate": "2018-07-16T17:22:50Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252805910",
+        "priority": "21154c008000000000007400"
+    },
+    {
+        "id": "IEAB7KHGKQHB3XNW",
+        "accountId": "IEAB7KHG",
+        "title": "Marcus re backend data for the CIP",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-11T19:17:56Z",
+        "updatedDate": "2018-07-16T17:21:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=236838326",
+        "priority": "1af728008000000000007000"
+    },
+    {
+        "id": "IEAB7KHGKQG47WDM",
+        "accountId": "IEAB7KHG",
+        "title": "Fix the HTTP calls (change them to HTTPS) in the OpenCity page",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T22:48:43Z",
+        "updatedDate": "2018-07-16T17:20:18Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231725164",
+        "priority": "187a30008000000000005000"
+    },
+    {
+        "id": "IEAB7KHGKQHPFSA7",
+        "accountId": "IEAB7KHG",
+        "title": "Set up meetings for OpenCity rebranding",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-02T15:01:45Z",
+        "updatedDate": "2018-07-16T17:19:50Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=250791967",
+        "priority": "205ecc008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQG7XKJC",
+        "accountId": "IEAB7KHG",
+        "title": "Set up internal data structuring course. This could/should include Excel/PowerPivot training",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-03T21:01:44Z",
+        "updatedDate": "2018-07-16T17:19:05Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=234596642",
+        "priority": "19d588008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQG54XGL",
+        "accountId": "IEAB7KHG",
+        "title": "Are there APIs for 'My Neighborhood Update' (Police -> Crime Map) that could be included in a training",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:51:42Z",
+        "updatedDate": "2018-07-16T17:18:57Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232676555",
+        "priority": "18e4c8008000000000001c00"
+    },
+    {
+        "id": "IEAB7KHGKQG47LM6",
+        "accountId": "IEAB7KHG",
+        "title": "Did the coding event ever happen? re Dan/Ginny",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T22:00:43Z",
+        "updatedDate": "2018-07-16T17:18:43Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231714206",
+        "priority": "187868008000000000009400"
+    },
+    {
+        "id": "IEAB7KHGKQG4HGJP",
+        "accountId": "IEAB7KHG",
+        "title": "API training session for the public? Go through Ginny for this",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T22:03:59Z",
+        "updatedDate": "2018-07-16T17:18:27Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-24T09:00:00",
+            "due": "2018-09-28T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230922543",
+        "priority": "180fdc008000000000004c00"
+    },
+    {
+        "id": "IEAB7KHGKQHKIOYN",
+        "accountId": "IEAB7KHG",
+        "title": "Review Bloomberg Associates report on public engagement tools for cities",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-13T19:35:50Z",
+        "updatedDate": "2018-07-16T17:18:08Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=245644045",
+        "priority": "1e5730008000000000009000"
+    },
+    {
+        "id": "IEAB7KHGKQHRCZWA",
+        "accountId": "IEAB7KHG",
+        "title": "Methods to discover community needs for Open Data",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T22:14:24Z",
+        "updatedDate": "2018-07-16T17:15:59Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252798656",
+        "priority": "211480008000000000005400"
+    },
+    {
+        "id": "IEAB7KHGKQG7FY3U",
+        "accountId": "IEAB7KHG",
+        "title": "Follow up on Police Data Initiative",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-02T14:25:36Z",
+        "updatedDate": "2018-07-16T17:15:22Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=234021748",
+        "priority": "198450008000000000006800"
+    },
+    {
+        "id": "IEAB7KHGKQHS4ABT",
+        "accountId": "IEAB7KHG",
+        "title": "Update metadata for underlying datasets",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-16T17:08:59Z",
+        "updatedDate": "2018-07-16T17:09:05Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=254672947",
+        "priority": "21b58c00800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQHQ5662",
+        "accountId": "IEAB7KHG",
+        "title": "Create 'showcase' page and make public the 'Showcase' href that points to it. Update the link in the Governance Handbook.",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T17:01:25Z",
+        "updatedDate": "2018-07-16T17:04:42Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=252640218",
+        "priority": "210228008000000000005800"
+    },
+    {
+        "id": "IEAB7KHGKQG3BZUC",
+        "accountId": "IEAB7KHG",
+        "title": "Update all metadata with new license (per Legal's preference) instead of 'Public Domain'",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-04-16T15:01:16Z",
+        "updatedDate": "2018-07-16T17:04:18Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=229697154",
+        "priority": "178484008000000000003c00"
+    },
+    {
+        "id": "IEAB7KHGKQG3ZOSV",
+        "accountId": "IEAB7KHG",
+        "title": "Generate standard for metadata description definition",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-18T17:34:26Z",
+        "updatedDate": "2018-07-16T17:03:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 24000,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=230472277",
+        "priority": "17da68007fffffffffffcc00"
+    },
+    {
+        "id": "IEAB7KHGKQHAAAQO",
+        "accountId": "IEAB7KHG",
+        "title": "Set up metadata processes to apply to internal data as well",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-04T15:39:15Z",
+        "updatedDate": "2018-07-16T17:03:01Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=234881550",
+        "priority": "1a03f8007fffffffffffa400"
+    },
+    {
+        "id": "IEAB7KHGKQHQ47SN",
+        "accountId": "IEAB7KHG",
+        "title": "Need to include update frequency in metadata",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T15:55:02Z",
+        "updatedDate": "2018-07-16T17:02:53Z",
+        "completedDate": "2018-07-16T17:02:53Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=252608077",
+        "priority": "20fe94008000000000001800"
+    },
+    {
+        "id": "IEAB7KHGKQHPMHC4",
+        "accountId": "IEAB7KHG",
+        "title": "Need to include date display format in metadata",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-02T23:08:27Z",
+        "updatedDate": "2018-07-16T17:02:31Z",
+        "completedDate": "2018-07-16T17:02:31Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=251010140",
+        "priority": "206c5400800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQHRXWM4",
+        "accountId": "IEAB7KHG",
+        "title": "How to track who (internally) is using the data?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T17:23:25Z",
+        "updatedDate": "2018-07-16T17:01:55Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253483420",
+        "priority": "21509c008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQHJ2BNQ",
+        "accountId": "IEAB7KHG",
+        "title": "Update Expenditures \"hero image\" to match the new OpenData image",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-12T15:54:57Z",
+        "updatedDate": "2018-07-16T16:55:14Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=245171632",
+        "priority": "1e2a9c008000000000006000"
+    },
+    {
+        "id": "IEAB7KHGKQHOALA2",
+        "accountId": "IEAB7KHG",
+        "title": "Set up Expenditures Module drop-in training for City employees",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-27T17:42:36Z",
+        "updatedDate": "2018-07-16T16:55:07Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=249572378",
+        "priority": "1ff440008000000000004400"
+    },
+    {
+        "id": "IEAB7KHGKQHSRBYN",
+        "accountId": "IEAB7KHG",
+        "title": "David re help if there are specific audience segments to target with this release",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T21:58:11Z",
+        "updatedDate": "2018-07-16T16:54:41Z",
+        "completedDate": "2018-07-16T16:54:28Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=254314253",
+        "priority": "219a4c00800000000000b000"
+    },
+    {
+        "id": "IEAB7KHGKQHF75P4",
+        "accountId": "IEAB7KHG",
+        "title": "Set up Socrata feature demo for NERD Club",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T16:21:16Z",
+        "updatedDate": "2018-07-16T16:53:44Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=241169916",
+        "priority": "1c9a1000800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQHIBSPK",
+        "accountId": "IEAB7KHG",
+        "title": "How can Clearpoint help me?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-05T19:27:06Z",
+        "updatedDate": "2018-07-16T16:53:20Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=243321322",
+        "priority": "1d7b04008000000000008c00"
+    },
+    {
+        "id": "IEAB7KHGKQG6A4PZ",
+        "accountId": "IEAB7KHG",
+        "title": "Parse San Francisco's Data Inventory for dataset ideas",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T21:08:10Z",
+        "updatedDate": "2018-07-16T16:53:07Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232813049",
+        "priority": "18f3b4008000000000001400"
+    },
+    {
+        "id": "IEAB7KHGKQHPFR4M",
+        "accountId": "IEAB7KHG",
+        "title": "Go through process to get Tee's marijuana license data online",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-02T15:01:08Z",
+        "updatedDate": "2018-07-16T16:52:49Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=250791820",
+        "priority": "205ec8008000000000005c00"
+    },
+    {
+        "id": "IEAB7KHGKQHMG76R",
+        "accountId": "IEAB7KHG",
+        "title": "Go through privacy process to publish Monthly Shelter dataset",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T20:04:01Z",
+        "updatedDate": "2018-07-16T16:52:42Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=247693265",
+        "priority": "1f2d84008000000000009000"
+    },
+    {
+        "id": "IEAB7KHGKQHS3BST",
+        "accountId": "IEAB7KHG",
+        "title": "Look into Google Assistant Apps",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-16T15:58:58Z",
+        "updatedDate": "2018-07-16T16:01:46Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-17T09:00:00",
+            "due": "2018-09-21T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=254641747",
+        "priority": "21b318008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQG4HGDD",
+        "accountId": "IEAB7KHG",
+        "title": "Talk to Jim Thome about the backend of the City calendar",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T22:03:11Z",
+        "updatedDate": "2018-07-16T16:01:29Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-27T09:00:00",
+            "due": "2018-08-31T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230922339",
+        "priority": "180fd8008000000000007800"
+    },
+    {
+        "id": "IEAB7KHGKQHIBNRT",
+        "accountId": "IEAB7KHG",
+        "title": "Set up (at least) Lambda calls in IT Performance Metric tracker",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-05T19:14:14Z",
+        "updatedDate": "2018-07-16T16:00:27Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=243316275",
+        "priority": "1d7aa8008000000000005c00"
+    },
+    {
+        "id": "IEAB7KHGKQHSRCNZ",
+        "accountId": "IEAB7KHG",
+        "title": "Create report of Google Analytics performance metrics as they relate to the staged communications",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T22:01:01Z",
+        "updatedDate": "2018-07-13T22:03:59Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=254314937",
+        "priority": "219a70008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQG43WSY",
+        "accountId": "IEAB7KHG",
+        "title": "Configure Google Analytics API",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T16:41:48Z",
+        "updatedDate": "2018-07-13T22:01:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=231594584",
+        "priority": "186c10008000000000004000"
+    },
+    {
+        "id": "IEAB7KHGKQG6ALGS",
+        "accountId": "IEAB7KHG",
+        "title": "Bring Google Analytics results into performance metrics",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T20:14:23Z",
+        "updatedDate": "2018-07-13T22:00:57Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=232795346",
+        "priority": "18f1e800800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQHSPYOJ",
+        "accountId": "IEAB7KHG",
+        "title": "Submit Communications Request Form to put in a ticket for the OpenBook launch",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T19:38:45Z",
+        "updatedDate": "2018-07-13T19:38:51Z",
+        "completedDate": "2018-07-13T19:38:51Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-13T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=254271945",
+        "priority": "219580008000000000008c00"
+    },
+    {
+        "id": "IEAB7KHGKQHIOVF2",
+        "accountId": "IEAB7KHG",
+        "title": "Requirements document, then Jim Thome re upload for image (and maybe document) reference",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-06T22:21:52Z",
+        "updatedDate": "2018-07-13T18:50:47Z",
+        "completedDate": "2018-07-13T18:50:47Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=243750074",
+        "priority": "1da28c008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHSGYBK",
+        "accountId": "IEAB7KHG",
+        "title": "Jim re move the legacy OpenBook to a 'hidden' URL (still public) and link the current URL to the new OpenBook",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-12T21:43:58Z",
+        "updatedDate": "2018-07-13T17:25:52Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253976618",
+        "priority": "217b2c008000000000005400"
+    },
+    {
+        "id": "IEAB7KHGKQG47PEB",
+        "accountId": "IEAB7KHG",
+        "title": "Look into CKAN (Comprehensive Knowledge Archive Network)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T22:14:51Z",
+        "updatedDate": "2018-07-13T17:17:14Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231718017",
+        "priority": "1878dc008000000000007800"
+    },
+    {
+        "id": "IEAB7KHGKQG5HJ3F",
+        "accountId": "IEAB7KHG",
+        "title": "Set up test questions/answers for Alexa service",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T16:49:40Z",
+        "updatedDate": "2018-07-13T16:30:48Z",
+        "completedDate": "2018-07-13T16:30:48Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231974757",
+        "priority": "18959c008000000000005800"
+    },
+    {
+        "id": "IEAB7KHGKQHMDDTW",
+        "accountId": "IEAB7KHG",
+        "title": "Socrata re update layout to CPIO mockup",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T14:51:11Z",
+        "updatedDate": "2018-07-13T16:24:23Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 4800,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=247565942",
+        "priority": "1f20a800800000000000b800"
+    },
+    {
+        "id": "IEAB7KHGKQHSML6T",
+        "accountId": "IEAB7KHG",
+        "title": "Enable automated Lambda updates, with included Alexa Questions dataset as a JSON file in the deployment package",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-13T14:34:44Z",
+        "updatedDate": "2018-07-13T14:36:19Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-10T09:00:00",
+            "due": "2018-09-14T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=254160851",
+        "priority": "218b48008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQHSFFUS",
+        "accountId": "IEAB7KHG",
+        "title": "Set up script to update Lambda programmatically",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-12T19:08:34Z",
+        "updatedDate": "2018-07-13T14:34:13Z",
+        "completedDate": "2018-07-13T14:34:13Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=253925010",
+        "priority": "21773c008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHSGX23",
+        "accountId": "IEAB7KHG",
+        "title": "Deploy Google Analytics for the new OpenBook",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-12T21:43:11Z",
+        "updatedDate": "2018-07-12T21:43:19Z",
+        "completedDate": "2018-07-12T21:43:19Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=253976411",
+        "priority": "217b2c008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQHO27FS",
+        "accountId": "IEAB7KHG",
+        "title": "Create 'successfully run' log in \\\\socrata\\logging",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-29T23:05:42Z",
+        "updatedDate": "2018-07-12T21:22:30Z",
+        "completedDate": "2018-07-12T21:22:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=250444978",
+        "priority": "203d1c008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQG5HJVM",
+        "accountId": "IEAB7KHG",
+        "title": "Determine what Alexa needs to recognize/answer questions",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T16:49:13Z",
+        "updatedDate": "2018-07-12T20:33:06Z",
+        "completedDate": "2018-07-12T20:33:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231974572",
+        "priority": "18959c008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQHRXUR4",
+        "accountId": "IEAB7KHG",
+        "title": "Should we participate in MapNoco.org or OpenColorado.org?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T17:19:25Z",
+        "updatedDate": "2018-07-11T17:19:37Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-10T09:00:00",
+            "due": "2018-09-14T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253481532",
+        "priority": "21507800800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQHRVUY5",
+        "accountId": "IEAB7KHG",
+        "title": "Ginny re Executive Leadership Team presentation (/demo?)",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T14:55:54Z",
+        "updatedDate": "2018-07-11T15:15:47Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-11T09:00:00",
+            "due": "2018-07-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=253416221",
+        "priority": "214ac8008000000000002800"
+    },
+    {
+        "id": "IEAB7KHGKQHRVGFV",
+        "accountId": "IEAB7KHG",
+        "title": "Olivia re find a different method than a '%,%' text search in SQL to designate when a Vendor is an 'employee'",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T14:26:55Z",
+        "updatedDate": "2018-07-11T15:15:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=253401269",
+        "priority": "2149b0008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQHRVTO4",
+        "accountId": "IEAB7KHG",
+        "title": "Look into expanding the date range for new Expenditures",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T14:53:07Z",
+        "updatedDate": "2018-07-11T14:56:31Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-27T09:00:00",
+            "due": "2018-08-31T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253414876",
+        "priority": "214ab400800000000000b800"
+    },
+    {
+        "id": "IEAB7KHGKQHRVDIG",
+        "accountId": "IEAB7KHG",
+        "title": "Look into the '1 hour' job titles for Recreation",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-11T14:20:54Z",
+        "updatedDate": "2018-07-11T14:26:06Z",
+        "completedDate": "2018-07-11T14:26:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-07-11T09:00:00",
+            "due": "2018-07-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=253398278",
+        "priority": "214978008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQHRNFJM",
+        "accountId": "IEAB7KHG",
+        "title": "Split Data Governance Handbook into multiple standards",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-10T19:52:11Z",
+        "updatedDate": "2018-07-10T19:54:21Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253138220",
+        "priority": "21346000800000000000ac00"
+    },
+    {
+        "id": "IEAB7KHGKQG2J3JK",
+        "accountId": "IEAB7KHG",
+        "title": "Modify Data Governance Handbook working copy with new strategy",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-12T14:11:08Z",
+        "updatedDate": "2018-07-10T19:51:44Z",
+        "completedDate": "2018-07-10T19:51:44Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 31680,
+            "start": "2018-04-13T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228912426",
+        "priority": "1730f8008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHRMDPS",
+        "accountId": "IEAB7KHG",
+        "title": "Fix Vendor dataset location links",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-10T18:33:17Z",
+        "updatedDate": "2018-07-10T18:35:04Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-10T09:00:00",
+            "due": "2018-09-14T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=253103602",
+        "priority": "2130fc008000000000001400"
+    },
+    {
+        "id": "IEAB7KHGKQHMDL6O",
+        "accountId": "IEAB7KHG",
+        "title": "Jen Barna (reference by Kraig B) about Sharepoint privacy checklist",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T15:09:32Z",
+        "updatedDate": "2018-07-09T23:00:36Z",
+        "completedDate": "2018-07-09T23:00:36Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=247574478",
+        "priority": "1f2168008000000000005800"
+    },
+    {
+        "id": "IEAB7KHGKQHRB6XL",
+        "accountId": "IEAB7KHG",
+        "title": "Check for access to an 'alternative example of a data inventory template' (removed from the Data Governance doc)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T20:53:44Z",
+        "updatedDate": "2018-07-09T20:55:04Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252771051",
+        "priority": "2111d0008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQHRBPVD",
+        "accountId": "IEAB7KHG",
+        "title": "Need to find a legal representative for the Data Management Leadership Team (Ryan Malarky?)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T20:34:41Z",
+        "updatedDate": "2018-07-09T20:34:53Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252755619",
+        "priority": "210f58008000000000002400"
+    },
+    {
+        "id": "IEAB7KHGKQG46TG4",
+        "accountId": "IEAB7KHG",
+        "title": "Review DataSF Guidebook",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T20:41:49Z",
+        "updatedDate": "2018-07-09T17:28:53Z",
+        "completedDate": "2018-07-09T17:28:53Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231689436",
+        "priority": "1875c0008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHF76KB",
+        "accountId": "IEAB7KHG",
+        "title": "Include institutional privacy policies in data governance policy",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T16:23:12Z",
+        "updatedDate": "2018-07-09T16:22:22Z",
+        "completedDate": "2018-07-09T16:22:22Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=241170753",
+        "priority": "1c9a24008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQHQ5BBL",
+        "accountId": "IEAB7KHG",
+        "title": "Automate a warning when a dataset hasn't been updated frequently enough",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-07-09T15:59:19Z",
+        "updatedDate": "2018-07-09T16:05:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=252609579",
+        "priority": "20feac008000000000009800"
+    },
+    {
+        "id": "IEAB7KHGKQHMC7X7",
+        "accountId": "IEAB7KHG",
+        "title": "Include how to handle data expiration in governance policy",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T14:41:23Z",
+        "updatedDate": "2018-07-09T15:54:33Z",
+        "completedDate": "2018-07-09T15:54:33Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=247561983",
+        "priority": "1f2068008000000000004c00"
+    },
+    {
+        "id": "IEAB7KHGKQHAO56F",
+        "accountId": "IEAB7KHG",
+        "title": "Create Excel, Google Sheets add-in similar to EIA add-in",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-07T16:16:59Z",
+        "updatedDate": "2018-07-09T15:00:00Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=235370437",
+        "priority": "1a53a4008000000000002800"
+    },
+    {
+        "id": "IEAB7KHGKQG6AC3O",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Steve Malars (Contacts List.xlsx) re his open data needs",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T19:54:33Z",
+        "updatedDate": "2018-07-09T14:59:50Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232786798",
+        "priority": "18f120008000000000004800"
+    },
+    {
+        "id": "IEAB7KHGKQG4HBDK",
+        "accountId": "IEAB7KHG",
+        "title": "Find 'benchmark list' in some FCGov repository (list of municipalities to compare ourselves to)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T21:43:08Z",
+        "updatedDate": "2018-07-09T14:59:27Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230917226",
+        "priority": "180f6c008000000000001800"
+    },
+    {
+        "id": "IEAB7KHGKQG5GTDF",
+        "accountId": "IEAB7KHG",
+        "title": "Determine the best visualization method for my Wrike tasks breakdown over time (for performance reviews)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T15:46:36Z",
+        "updatedDate": "2018-07-09T14:58:59Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=231951461",
+        "priority": "1892c4008000000000000800"
+    },
+    {
+        "id": "IEAB7KHGKQHAOB6Y",
+        "accountId": "IEAB7KHG",
+        "title": "Parse initial Open Data metrics pulled from Socrata portal",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-07T15:07:02Z",
+        "updatedDate": "2018-07-09T14:58:38Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=235341784",
+        "priority": "1a50c8008000000000002000"
+    },
+    {
+        "id": "IEAB7KHGKQHBD4XI",
+        "accountId": "IEAB7KHG",
+        "title": "Duplicate Socrata metadata as a linked JSON-LD file? (for RDF compliance)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-09T15:09:03Z",
+        "updatedDate": "2018-07-09T14:58:24Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=236057320",
+        "priority": "1a9b9c008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQG7ISPW",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Bridget Ronayne re access to the Utilities non-db data warehouse",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-02T17:25:13Z",
+        "updatedDate": "2018-07-09T14:56:12Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=234113526",
+        "priority": "199190008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQHAAHJS",
+        "accountId": "IEAB7KHG",
+        "title": "Steve Malers (Water Board) wants the following data from Utilities on the ODP",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-04T15:52:27Z",
+        "updatedDate": "2018-07-09T14:54:15Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=234888498",
+        "priority": "1a052400800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQHAO6MC",
+        "accountId": "IEAB7KHG",
+        "title": "Integrate AccessFTC data into ...something",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-07T16:18:14Z",
+        "updatedDate": "2018-07-09T14:53:55Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=235370882",
+        "priority": "1a53ac008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQHF73K2",
+        "accountId": "IEAB7KHG",
+        "title": "Mike Margenau, Josh Schwartz re their work with Doug Cain on geocoding address system for Utilities data",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T16:15:09Z",
+        "updatedDate": "2018-07-09T14:53:47Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=241167706",
+        "priority": "1c99c8008000000000008c00"
+    },
+    {
+        "id": "IEAB7KHGKQG54XQK",
+        "accountId": "IEAB7KHG",
+        "title": "Add Crime Statistics (Police -> UCR Crime Totals) to ODP",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:52:23Z",
+        "updatedDate": "2018-07-09T14:53:25Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232676874",
+        "priority": "18e4cc008000000000006000"
+    },
+    {
+        "id": "IEAB7KHGKQG54WZQ",
+        "accountId": "IEAB7KHG",
+        "title": "Href to 'My Neighborhood Update' (Police -> Crime Map)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:50:50Z",
+        "updatedDate": "2018-07-09T14:53:19Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232676144",
+        "priority": "18e4c0008000000000002000"
+    },
+    {
+        "id": "IEAB7KHGKQHKJAFD",
+        "accountId": "IEAB7KHG",
+        "title": "Find out if/how CDOT releases their Bluetooth traffic tracking data",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-13T20:24:14Z",
+        "updatedDate": "2018-07-09T14:53:04Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=245661859",
+        "priority": "1e5930008000000000009000"
+    },
+    {
+        "id": "IEAB7KHGKQHMC4QD",
+        "accountId": "IEAB7KHG",
+        "title": "Marijuana zone map is already online, add to Socrata",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T14:34:13Z",
+        "updatedDate": "2018-07-09T14:52:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=247558659",
+        "priority": "1f2014008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQG54VRD",
+        "accountId": "IEAB7KHG",
+        "title": "Study 'Community Dashboard'",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:47:42Z",
+        "updatedDate": "2018-07-09T14:52:38Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232674851",
+        "priority": "18e4a0008000000000006000"
+    },
+    {
+        "id": "IEAB7KHGKQHMDHUN",
+        "accountId": "IEAB7KHG",
+        "title": "Add link to affordable housing map (GIS)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T15:00:22Z",
+        "updatedDate": "2018-07-09T14:52:19Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=247570061",
+        "priority": "1f2118008000000000007c00"
+    },
+    {
+        "id": "IEAB7KHGKQG3RIBQ",
+        "accountId": "IEAB7KHG",
+        "title": "Scrape fcgov public site for already-published non-Portal datasets",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-17T20:41:46Z",
+        "updatedDate": "2018-07-09T14:52:08Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 12000,
+            "start": "2018-06-11T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=230203440",
+        "priority": "17ba38008000000000002800"
+    },
+    {
+        "id": "IEAB7KHGKQHHRQRA",
+        "accountId": "IEAB7KHG",
+        "title": "Review Eric's Change Request structure",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-04T15:22:43Z",
+        "updatedDate": "2018-07-09T14:51:31Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=242795040",
+        "priority": "1d43a8008000000000007000"
+    },
+    {
+        "id": "IEAB7KHGKQG4HBMX",
+        "accountId": "IEAB7KHG",
+        "title": "Ensure there are notifications for *any* possible break in the automation process",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T21:45:05Z",
+        "updatedDate": "2018-07-09T14:45:20Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-20T09:00:00",
+            "due": "2018-08-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230917527",
+        "priority": "180f74008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHKI6ZG",
+        "accountId": "IEAB7KHG",
+        "title": "Can Socrata handle a real-time stream (XML stream from Traffic)? Would we want to?",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-13T20:20:16Z",
+        "updatedDate": "2018-07-09T14:44:25Z",
+        "completedDate": "2018-07-09T14:44:25Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=245660454",
+        "priority": "1e58f8008000000000004c00"
+    },
+    {
+        "id": "IEAB7KHGKQG54TYJ",
+        "accountId": "IEAB7KHG",
+        "title": "Determine how to automate datasets from Lori Frank",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:43:53Z",
+        "updatedDate": "2018-07-09T14:41:27Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232673033",
+        "priority": "18e46c008000000000001400"
+    },
+    {
+        "id": "IEAB7KHGKQHBIBOX",
+        "accountId": "IEAB7KHG",
+        "title": "Would it be useful to parse shapefiles via Python (to simplify for Socrata?)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-09T20:54:40Z",
+        "updatedDate": "2018-07-09T14:40:28Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-17T09:00:00",
+            "due": "2018-09-21T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=236193239",
+        "priority": "1aa9cc008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQG5WWSY",
+        "accountId": "IEAB7KHG",
+        "title": "Add code to identify asset ID from dataset metrics and upsert into that asset ID",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-25T22:39:05Z",
+        "updatedDate": "2018-07-09T14:40:13Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232479320",
+        "priority": "18cd14008000000000007c00"
+    },
+    {
+        "id": "IEAB7KHGKQG5WWUW",
+        "accountId": "IEAB7KHG",
+        "title": "Add code to upload new dataset",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-25T22:39:29Z",
+        "updatedDate": "2018-07-09T14:39:35Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232479382",
+        "priority": "18cd18008000000000001800"
+    },
+    {
+        "id": "IEAB7KHGKQG6AAWP",
+        "accountId": "IEAB7KHG",
+        "title": "Get with Utilities Customer Service to determine the things people are concerned about (regarding data - privacy, ...)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T19:46:40Z",
+        "updatedDate": "2018-07-09T14:22:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232784591",
+        "priority": "18f0e0007fffffffffff5000"
+    },
+    {
+        "id": "IEAB7KHGKQG5SV4K",
+        "accountId": "IEAB7KHG",
+        "title": "Specify official process for posting data to ODP",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-25T16:42:43Z",
+        "updatedDate": "2018-07-09T14:22:11Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=232347530",
+        "priority": "18bf58008000000000003c00"
+    },
+    {
+        "id": "IEAB7KHGKQHFO4MS",
+        "accountId": "IEAB7KHG",
+        "title": "Set up an annual review/audit process",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:46:53Z",
+        "updatedDate": "2018-07-05T19:34:37Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2019-01-07T09:00:00",
+            "due": "2019-01-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=240611730",
+        "priority": "1c603c008000000000002400"
+    },
+    {
+        "id": "IEAB7KHGKQHHEQSG",
+        "accountId": "IEAB7KHG",
+        "title": "'Key Mappings' changes",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-01T16:36:05Z",
+        "updatedDate": "2018-07-05T16:12:04Z",
+        "completedDate": "2018-07-05T16:12:04Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 10080,
+            "start": "2018-06-01T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=242369094",
+        "priority": "1d17cc00800000000000c000"
+    },
+    {
+        "id": "IEAB7KHGKQHPGEQ5",
+        "accountId": "IEAB7KHG",
+        "title": "Expenditures documentation",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-07-02T15:41:11Z",
+        "updatedDate": "2018-07-05T16:09:17Z",
+        "completedDate": "2018-07-05T16:09:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=250810909",
+        "priority": "206010008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHO27C5",
+        "accountId": "IEAB7KHG",
+        "title": "Comparison documentation",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-29T23:03:52Z",
+        "updatedDate": "2018-07-05T16:08:51Z",
+        "completedDate": "2018-07-05T16:08:51Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=250444893",
+        "priority": "203d1800800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQHNS3PS",
+        "accountId": "IEAB7KHG",
+        "title": "Update load_nocost_tables.sql (via Olivia) to remove the funds outside of the allowed range (e.g. 00499)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-26T15:39:47Z",
+        "updatedDate": "2018-07-03T21:41:35Z",
+        "completedDate": "2018-07-03T21:41:35Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-06-26T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=249130482",
+        "priority": "1fc3f0008000000000009800"
+    },
+    {
+        "id": "IEAB7KHGKQHMEBF6",
+        "accountId": "IEAB7KHG",
+        "title": "Because of the slight discrepancy, recommend taking Open Book offline after the City Council presentation",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T16:00:03Z",
+        "updatedDate": "2018-07-03T20:13:39Z",
+        "completedDate": "2018-07-03T20:13:39Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-25T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=247596222",
+        "priority": "1f233c008000000000007c00"
+    },
+    {
+        "id": "IEAB7KHGKQHFO7WP",
+        "accountId": "IEAB7KHG",
+        "title": "Specify the year of employee earnings in the ODP",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:57:59Z",
+        "updatedDate": "2018-07-02T22:45:28Z",
+        "completedDate": "2018-07-02T22:45:28Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-25T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240615119",
+        "priority": "1c6084007ffffffffffff000"
+    },
+    {
+        "id": "IEAB7KHGKQHFO7JL",
+        "accountId": "IEAB7KHG",
+        "title": "Create note in Employee Earnings metadata that the earnings specified are those that are taxed by Medicare",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:56:58Z",
+        "updatedDate": "2018-07-02T22:45:06Z",
+        "completedDate": "2018-07-02T22:45:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-25T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240614699",
+        "priority": "1c607c008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQHMDH2E",
+        "accountId": "IEAB7KHG",
+        "title": "Publish Socrata use metrics as a dataset on Socrata",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T15:01:08Z",
+        "updatedDate": "2018-07-02T15:45:01Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-30T09:00:00",
+            "due": "2018-08-03T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=247570244",
+        "priority": "1f211c008000000000001400"
+    },
+    {
+        "id": "IEAB7KHGKQG54WH6",
+        "accountId": "IEAB7KHG",
+        "title": "Is Neighborhood Watch data available from anywhere? Lori Frank does not have it",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:49:16Z",
+        "updatedDate": "2018-07-02T15:37:41Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232675582",
+        "priority": "18e4b4008000000000001c00"
+    },
+    {
+        "id": "IEAB7KHGKQHF74AY",
+        "accountId": "IEAB7KHG",
+        "title": "Household demographics data (for Bertha) - currently static, move to get updated periodically",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T16:17:10Z",
+        "updatedDate": "2018-07-02T15:36:09Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=241168408",
+        "priority": "1c99e0008000000000009800"
+    },
+    {
+        "id": "IEAB7KHGKQG6AESH",
+        "accountId": "IEAB7KHG",
+        "title": "Look into IBM Maximo (Utilities is moving to this system)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T19:58:01Z",
+        "updatedDate": "2018-07-02T14:48:06Z",
+        "completedDate": "2018-07-02T14:48:06Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=232788551",
+        "priority": "18f134008000000000009c00"
+    },
+    {
+        "id": "IEAB7KHGKQHAN6CB",
+        "accountId": "IEAB7KHG",
+        "title": "Create traditional PM documentation for the Open Data initiative",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-05-07T14:57:56Z",
+        "updatedDate": "2018-07-02T14:45:05Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-25T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=235337793",
+        "priority": "1a5054008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQHLLMTA",
+        "accountId": "IEAB7KHG",
+        "title": "Helpdesk request for DataRequest email group",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-18T16:44:50Z",
+        "updatedDate": "2018-06-29T23:16:04Z",
+        "completedDate": "2018-06-29T23:16:04Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-06-20T09:00:00",
+            "due": "2018-06-22T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=246788704",
+        "priority": "1ed14c008000000000008000"
+    },
+    {
+        "id": "IEAB7KHGKQHFQKAT",
+        "accountId": "IEAB7KHG",
+        "title": "Compare raw data between Open Book and Expenditures. Return anything that isn't equal, or DNE on either side.",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T21:59:50Z",
+        "updatedDate": "2018-06-29T23:03:46Z",
+        "completedDate": "2018-06-29T23:03:46Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 11520,
+            "start": "2018-05-29T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240658451",
+        "priority": "1c63b4007fffffffffff6c00"
+    },
+    {
+        "id": "IEAB7KHGKQHMCWNG",
+        "accountId": "IEAB7KHG",
+        "title": "Have Olivia update the server SQL script to remove whitespace, write to PYSV, and change the line lengths and trailing whitespace vars",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-20T14:20:18Z",
+        "updatedDate": "2018-06-29T22:59:55Z",
+        "completedDate": "2018-06-29T22:59:55Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-09T09:00:00",
+            "due": "2018-07-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=247552422",
+        "priority": "1f1f58008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHJY7EA",
+        "accountId": "IEAB7KHG",
+        "title": "Email directors / financial coordinators for each group to get buy-in for their business units / objects",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-12T14:50:15Z",
+        "updatedDate": "2018-06-28T23:20:26Z",
+        "completedDate": "2018-06-28T23:20:26Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 6720,
+            "start": "2018-06-12T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=245136512",
+        "priority": "1e25d8007fffffffffff6800"
+    },
+    {
+        "id": "IEAB7KHGKQHMODMU",
+        "accountId": "IEAB7KHG",
+        "title": "Fix fund names in Expenditures backend",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-21T14:30:36Z",
+        "updatedDate": "2018-06-28T22:40:58Z",
+        "completedDate": "2018-06-28T22:40:58Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 4800,
+            "start": "2018-06-18T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=247926164",
+        "priority": "1f41d8008000000000003400"
+    },
+    {
+        "id": "IEAB7KHGKQHN6ATN",
+        "accountId": "IEAB7KHG",
+        "title": "Reply to Katie Ricketts re Startup in Residence program (DUE JUNE 27)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-27T14:45:43Z",
+        "updatedDate": "2018-06-28T22:38:32Z",
+        "completedDate": "2018-06-28T22:38:32Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-06-27T09:00:00",
+            "due": "2018-06-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=249496173",
+        "priority": "1fe6bc008000000000004800"
+    },
+    {
+        "id": "IEAB7KHGKQHF7OL2",
+        "accountId": "IEAB7KHG",
+        "title": "Set up targeted Expenditures Module training for City employees",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T15:41:02Z",
+        "updatedDate": "2018-06-27T17:42:29Z",
+        "completedDate": "2018-06-27T17:42:29Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-25T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=241154426",
+        "priority": "1c98b8007ffffffffffec400"
+    },
+    {
+        "id": "IEAB7KHGKQHNSTB5",
+        "accountId": "IEAB7KHG",
+        "title": "Ensure the date range is the 15th of the month minus 15 days (through the end of the previous month)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-26T15:20:50Z",
+        "updatedDate": "2018-06-26T21:18:54Z",
+        "completedDate": "2018-06-26T21:18:54Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-06-26T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=249121853",
+        "priority": "1fc334008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQHH72UX",
+        "accountId": "IEAB7KHG",
+        "title": "Review Open Book FAQs and add to Expenditures",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-05T17:23:17Z",
+        "updatedDate": "2018-06-26T21:12:50Z",
+        "completedDate": "2018-06-26T21:12:50Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 4800,
+            "start": "2018-06-18T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=243264151",
+        "priority": "1d768c00800000000000c000"
+    },
+    {
+        "id": "IEAB7KHGKQHIYCWB",
+        "accountId": "IEAB7KHG",
+        "title": "Document reasoning for inclusions/exclusions to Open Book",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-07T19:04:06Z",
+        "updatedDate": "2018-06-26T17:03:03Z",
+        "completedDate": "2018-06-26T17:03:03Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 4800,
+            "start": "2018-06-18T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=244058817",
+        "priority": "1dbfc400800000000000b000"
+    },
+    {
+        "id": "IEAB7KHGKQHGADQQ",
+        "accountId": "IEAB7KHG",
+        "title": "Look into GeoCortex (we use it alongside ArcGIS)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T16:40:06Z",
+        "updatedDate": "2018-06-25T15:21:02Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=241176080",
+        "priority": "1c9aa400800000000000b800"
+    },
+    {
+        "id": "IEAB7KHGKQG47O53",
+        "accountId": "IEAB7KHG",
+        "title": "Look into Socrata's open source product",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T22:14:36Z",
+        "updatedDate": "2018-06-25T15:20:54Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231717819",
+        "priority": "1878d8008000000000009400"
+    },
+    {
+        "id": "IEAB7KHGKQG422WA",
+        "accountId": "IEAB7KHG",
+        "title": "Look into OpenGov",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T15:32:14Z",
+        "updatedDate": "2018-06-25T15:20:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231566016",
+        "priority": "186934008000000000006400"
+    },
+    {
+        "id": "IEAB7KHGKQG42254",
+        "accountId": "IEAB7KHG",
+        "title": "Look into Junar",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T15:32:31Z",
+        "updatedDate": "2018-06-25T15:20:39Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231566268",
+        "priority": "18693c00800000000000c000"
+    },
+    {
+        "id": "IEAB7KHGKQG4HBSC",
+        "accountId": "IEAB7KHG",
+        "title": "Look into ICANN's open data initiative",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T21:46:07Z",
+        "updatedDate": "2018-06-25T15:20:33Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230917698",
+        "priority": "180f78008000000000003400"
+    },
+    {
+        "id": "IEAB7KHGKQG2VZDQ",
+        "accountId": "IEAB7KHG",
+        "title": "Is Accela Cloud a potential resource for the OD platform?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:42:36Z",
+        "updatedDate": "2018-06-25T15:20:20Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-17T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=229303408",
+        "priority": "175110008000000000009000"
+    },
+    {
+        "id": "IEAB7KHGKQG4DDKD",
+        "accountId": "IEAB7KHG",
+        "title": "Go through Open Data contact list.xlsx",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T15:43:01Z",
+        "updatedDate": "2018-06-25T15:18:40Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 24960,
+            "start": "2018-04-19T09:00:00",
+            "due": "2018-06-29T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAM4ZKO",
+        "permalink": "https://www.wrike.com/open.htm?id=230788419",
+        "priority": "1801fc008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQG5LFV6",
+        "accountId": "IEAB7KHG",
+        "title": "Update SocrataExt to be able to upload and replace files (as opposed to datasets)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T22:16:49Z",
+        "updatedDate": "2018-06-25T15:09:40Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-08-13T09:00:00",
+            "due": "2018-08-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232101566",
+        "priority": "18a498008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQHHFIZB",
+        "accountId": "IEAB7KHG",
+        "title": "Create a global (network) 'logging' location",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-01T17:36:15Z",
+        "updatedDate": "2018-06-20T19:56:54Z",
+        "completedDate": "2018-06-20T19:56:54Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-18T09:00:00",
+            "due": "2018-06-22T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=242393889",
+        "priority": "1d1bf0008000000000005000"
+    },
+    {
+        "id": "IEAB7KHGKQHLWXTL",
+        "accountId": "IEAB7KHG",
+        "title": "Reference GovEx Lab city trainings for materials used by other municipalities",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-19T14:49:22Z",
+        "updatedDate": "2018-06-19T14:50:56Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-10T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=247160427",
+        "priority": "1efe7c007fffffffffff6400"
+    },
+    {
+        "id": "IEAB7KHGKQHH6URV",
+        "accountId": "IEAB7KHG",
+        "title": "Review All-Staff slides with Olivia",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-05T15:42:54Z",
+        "updatedDate": "2018-06-18T16:40:41Z",
+        "completedDate": "2018-06-18T16:40:41Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-06-07T09:00:00",
+            "due": "2018-06-07T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=243225141",
+        "priority": "1d72fc008000000000000800"
+    },
+    {
+        "id": "IEAB7KHGKQHH6UNN",
+        "accountId": "IEAB7KHG",
+        "title": "Create slides for IT All-Staff presentation",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-06-05T15:42:31Z",
+        "updatedDate": "2018-06-18T16:09:12Z",
+        "completedDate": "2018-06-18T16:09:12Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2880,
+            "start": "2018-06-05T09:00:00",
+            "due": "2018-06-12T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=243225005",
+        "priority": "1d72f8008000000000003800"
+    },
+    {
+        "id": "IEAB7KHGKQG4654B",
+        "accountId": "IEAB7KHG",
+        "title": "Implement system to identify and remove datasets from Data Inventories that are already on the Open Data Portal (duplicates)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T21:07:42Z",
+        "updatedDate": "2018-06-18T16:00:41Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-09-03T09:00:00",
+            "due": "2018-09-07T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=231700353",
+        "priority": "18769800800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQG54YBT",
+        "accountId": "IEAB7KHG",
+        "title": "Href to Fort Collins 10 Most Wanted Facebook page",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:54:03Z",
+        "updatedDate": "2018-06-18T15:59:26Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-23T09:00:00",
+            "due": "2018-07-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=232677427",
+        "priority": "18e4e0008000000000005800"
+    },
+    {
+        "id": "IEAB7KHGKQHF6UG4",
+        "accountId": "IEAB7KHG",
+        "title": "Read through Socrata SOW re CPE",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T14:39:32Z",
+        "updatedDate": "2018-06-07T19:10:14Z",
+        "completedDate": "2018-06-07T19:10:14Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-06-04T09:00:00",
+            "due": "2018-06-04T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=241127644",
+        "priority": "1c9680008000000000007000"
+    },
+    {
+        "id": "IEAB7KHGKQHGWRVA",
+        "accountId": "IEAB7KHG",
+        "title": "Lawrence Pollack re description of inclusions/exclusions in SQL code (and/or go through full list of business units)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-31T14:59:56Z",
+        "updatedDate": "2018-06-07T19:03:29Z",
+        "completedDate": "2018-06-07T19:03:29Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-05-31T09:00:00",
+            "due": "2018-06-05T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=241911456",
+        "priority": "1cdee4008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQHFQKOC",
+        "accountId": "IEAB7KHG",
+        "title": "Change Alexa Skill account to AskAlexa@fcgov.com and forward email to that account",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T22:02:46Z",
+        "updatedDate": "2018-06-05T19:18:30Z",
+        "completedDate": "2018-06-05T19:18:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 960,
+            "start": "2018-05-31T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240658882",
+        "priority": "1c63b8007fffffffffff1000"
+    },
+    {
+        "id": "IEAB7KHGKQHFPFG6",
+        "accountId": "IEAB7KHG",
+        "title": "Configure and place Expenditures title text",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T19:19:03Z",
+        "updatedDate": "2018-06-04T22:25:08Z",
+        "completedDate": "2018-06-04T22:24:38Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-30T09:00:00",
+            "due": "2018-05-30T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240620766",
+        "priority": "1c611c008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHHRQBG",
+        "accountId": "IEAB7KHG",
+        "title": "Look into 'Jail Data Analysis' and 'Jail Data Collection' (re Olivia)",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-04T15:21:06Z",
+        "updatedDate": "2018-06-04T15:22:34Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=242794534",
+        "priority": "1d43a0008000000000009400"
+    },
+    {
+        "id": "IEAB7KHGKQHFO4AL",
+        "accountId": "IEAB7KHG",
+        "title": "Document SQL code (filtering/anonymizing and reasoning behind each instance)",
+        "status": "Cancelled",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:45:44Z",
+        "updatedDate": "2018-06-01T19:44:16Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-06-01T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAD",
+        "permalink": "https://www.wrike.com/open.htm?id=240611339",
+        "priority": "1c6014008000000000007800"
+    },
+    {
+        "id": "IEAB7KHGKQHFO72Y",
+        "accountId": "IEAB7KHG",
+        "title": "Note *on each page* of the Expenditures module that these are non-GAAP, un-audited values",
+        "status": "Cancelled",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:58:38Z",
+        "updatedDate": "2018-06-01T19:42:15Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-31T09:00:00",
+            "due": "2018-05-31T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAD",
+        "permalink": "https://www.wrike.com/open.htm?id=240615256",
+        "priority": "1c608800800000000000c000"
+    },
+    {
+        "id": "IEAB7KHGKQHHHA7F",
+        "accountId": "IEAB7KHG",
+        "title": "Look into Sharepoint wiki for documentation",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-06-01T19:25:30Z",
+        "updatedDate": "2018-06-01T19:25:41Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2019-01-14T09:00:00",
+            "due": "2019-01-14T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=242451429",
+        "priority": "1d24d4008000000000002800"
+    },
+    {
+        "id": "IEAB7KHGKQHFO6SI",
+        "accountId": "IEAB7KHG",
+        "title": "Determine business unit contacts for each unit included in the Open Book / Expenditures datasets",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:53:50Z",
+        "updatedDate": "2018-05-31T14:58:59Z",
+        "completedDate": "2018-05-31T14:58:59Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-05-29T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240613960",
+        "priority": "1c6060008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQHFQKOU",
+        "accountId": "IEAB7KHG",
+        "title": "Request to be put on the AskAlexa@fcgov.com distribution list",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T22:03:12Z",
+        "updatedDate": "2018-05-31T14:50:18Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-25T09:00:00",
+            "due": "2018-05-25T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=240658900",
+        "priority": "1c63b8007fffffffffff9400"
+    },
+    {
+        "id": "IEAB7KHGKQG2VUMF",
+        "accountId": "IEAB7KHG",
+        "title": "Michelle Johnson re test environment?",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:27:26Z",
+        "updatedDate": "2018-05-29T14:48:02Z",
+        "completedDate": "2018-05-29T14:48:02Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-02T09:00:00",
+            "due": "2018-07-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229298565",
+        "priority": "17509c008000000000004000"
+    },
+    {
+        "id": "IEAB7KHGKQHFO63K",
+        "accountId": "IEAB7KHG",
+        "title": "Talk to Socrata re defaulting all of our views to Calendar Year instead of Fiscal Year",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:55:26Z",
+        "updatedDate": "2018-05-29T14:43:33Z",
+        "completedDate": "2018-05-29T14:43:33Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-05-29T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240614250",
+        "priority": "1c606c008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQHF6U3H",
+        "accountId": "IEAB7KHG",
+        "title": "Get access to Clearpoint",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-29T14:41:03Z",
+        "updatedDate": "2018-05-29T14:41:11Z",
+        "completedDate": "2018-05-29T14:41:03Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-21T09:00:00",
+            "due": "2018-05-21T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=241128295",
+        "priority": "1c9690008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQG54V5S",
+        "accountId": "IEAB7KHG",
+        "title": "Do we include internal analyses for any of these datasets or do we just publish the data and let the public draw conclusions?",
+        "status": "Cancelled",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T14:48:34Z",
+        "updatedDate": "2018-05-29T14:37:29Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-06-11T09:00:00",
+            "due": "2018-06-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAD",
+        "permalink": "https://www.wrike.com/open.htm?id=232675250",
+        "priority": "18e4ac008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQG5HJ5X",
+        "accountId": "IEAB7KHG",
+        "title": "Get Amazon Lambda account with my p-card?",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T16:50:08Z",
+        "updatedDate": "2018-05-29T14:30:37Z",
+        "completedDate": "2018-05-29T14:30:37Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-04-25T09:00:00",
+            "due": "2018-04-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231974839",
+        "priority": "18959c00800000000000b400"
+    },
+    {
+        "id": "IEAB7KHGKQHFO5TZ",
+        "accountId": "IEAB7KHG",
+        "title": "Note in description on front page that payroll isn't included in any of the Expenditures figures",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:51:01Z",
+        "updatedDate": "2018-05-25T19:20:58Z",
+        "completedDate": "2018-05-25T19:20:58Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-05-29T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240612985",
+        "priority": "1c605000800000000000ac00"
+    },
+    {
+        "id": "IEAB7KHGKQHFO5J3",
+        "accountId": "IEAB7KHG",
+        "title": "Decide where to link to employee earnings info (stored in ODP)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:49:37Z",
+        "updatedDate": "2018-05-25T19:20:14Z",
+        "completedDate": "2018-05-25T19:20:14Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-05-29T09:00:00",
+            "due": "2018-06-01T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240612667",
+        "priority": "1c6048008000000000003000"
+    },
+    {
+        "id": "IEAB7KHGKQHFO76O",
+        "accountId": "IEAB7KHG",
+        "title": "Ensure we have a whitelist of business units and that we know what those are",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-25T18:59:10Z",
+        "updatedDate": "2018-05-25T18:59:22Z",
+        "completedDate": "2018-05-25T18:59:22Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-25T09:00:00",
+            "due": "2018-05-25T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=240615374",
+        "priority": "1c608c008000000000009c00"
+    },
+    {
+        "id": "IEAB7KHGKQHAAGHV",
+        "accountId": "IEAB7KHG",
+        "title": "Review Bertha map",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-04T15:49:23Z",
+        "updatedDate": "2018-05-11T19:12:40Z",
+        "completedDate": "2018-05-11T19:12:40Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=234887413",
+        "priority": "1a04fc00800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQG6ALLY",
+        "accountId": "IEAB7KHG",
+        "title": "Determine how to get IP addresses of visitors from Google Analytics for internal performance metrics",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T20:15:07Z",
+        "updatedDate": "2018-05-11T19:12:13Z",
+        "completedDate": "2018-05-11T19:11:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-07-16T09:00:00",
+            "due": "2018-07-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=232795512",
+        "priority": "18f1ec008000000000009000"
+    },
+    {
+        "id": "IEAB7KHGKQG6XO2F",
+        "accountId": "IEAB7KHG",
+        "title": "Complete 'Tools & Technologies' (course 4/4) before the conference",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-30T23:28:49Z",
+        "updatedDate": "2018-05-09T20:41:17Z",
+        "completedDate": "2018-05-09T20:41:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=233552709",
+        "priority": "194bcc007ffffffffffff800"
+    },
+    {
+        "id": "IEAB7KHGKQG34H3W",
+        "accountId": "IEAB7KHG",
+        "title": "Read through the Open Data Admin Introduction (docx)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-18T21:51:05Z",
+        "updatedDate": "2018-05-09T20:22:27Z",
+        "completedDate": "2018-05-09T20:22:27Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-07T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=230563702",
+        "priority": "17e69c008000000000005800"
+    },
+    {
+        "id": "IEAB7KHGKQG6XOYU",
+        "accountId": "IEAB7KHG",
+        "title": "Complete 'Data Communication and Visualization' (course 3/4) before the conference",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-30T23:28:10Z",
+        "updatedDate": "2018-05-09T14:57:30Z",
+        "completedDate": "2018-05-09T14:57:30Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-09T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=233552660",
+        "priority": "194bcc007fffffffffff5400"
+    },
+    {
+        "id": "IEAB7KHGKQG6XOXN",
+        "accountId": "IEAB7KHG",
+        "title": "Complete 'Data Culture, Teams, and Projects' (course 2/4) before the conference",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-30T23:27:43Z",
+        "updatedDate": "2018-05-07T21:31:39Z",
+        "completedDate": "2018-05-07T21:31:39Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-07T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=233552621",
+        "priority": "194bc8008000000000008a00"
+    },
+    {
+        "id": "IEAB7KHGKQG46HIO",
+        "accountId": "IEAB7KHG",
+        "title": "Find contact for AccessFTC hub - either get access to periodically pull db data for requests, or be added to CC for all request followup emails (e.g. to departments)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T20:07:19Z",
+        "updatedDate": "2018-05-07T16:17:50Z",
+        "completedDate": "2018-05-07T16:17:50Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-05-07T09:00:00",
+            "due": "2018-05-11T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231677198",
+        "priority": "187498008000000000009c00"
+    },
+    {
+        "id": "IEAB7KHGKQG4HF2H",
+        "accountId": "IEAB7KHG",
+        "title": "Create GitHub fork for site_metrics?",
+        "status": "Active",
+        "importance": "Normal",
+        "createdDate": "2018-04-19T22:02:40Z",
+        "updatedDate": "2018-05-07T15:13:25Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-08-06T09:00:00",
+            "due": "2018-08-06T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAA",
+        "permalink": "https://www.wrike.com/open.htm?id=230922055",
+        "priority": "180fd400800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQG2VUTV",
+        "accountId": "IEAB7KHG",
+        "title": "Talk to Olivia re 'Data Provided By' fields in OpenCity",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:28:27Z",
+        "updatedDate": "2018-05-07T15:09:15Z",
+        "completedDate": "2018-05-07T15:09:15Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-04-25T09:00:00",
+            "due": "2018-04-25T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229298805",
+        "priority": "1750a000800000000000a800"
+    },
+    {
+        "id": "IEAB7KHGKQG2NTNP",
+        "accountId": "IEAB7KHG",
+        "title": "Connect to Socrata consumer API to gather current open data metrics",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-12T19:22:50Z",
+        "updatedDate": "2018-05-07T15:06:36Z",
+        "completedDate": "2018-05-07T15:06:36Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-04-18T09:00:00",
+            "due": "2018-04-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229035439",
+        "priority": "16e504008000000000007100"
+    },
+    {
+        "id": "IEAB7KHGKQG47RA7",
+        "accountId": "IEAB7KHG",
+        "title": "Rearrange directories in Open Data Portal to fit the 'PM directory structure and templates'",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T22:24:26Z",
+        "updatedDate": "2018-05-07T14:57:28Z",
+        "completedDate": "2018-05-07T14:57:28Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-06-18T09:00:00",
+            "due": "2018-06-22T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231719967",
+        "priority": "187ab4008000000000008a00"
+    },
+    {
+        "id": "IEAB7KHGKQG7WTO6",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Molly S (Sustainability)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-03T19:59:11Z",
+        "updatedDate": "2018-05-03T21:00:49Z",
+        "completedDate": "2018-05-03T21:00:49Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=234573278",
+        "priority": "199044008000000000006600"
+    },
+    {
+        "id": "IEAB7KHGKQG7IJY7",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Claire Turney (Budget)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-02T17:07:10Z",
+        "updatedDate": "2018-05-02T17:07:14Z",
+        "completedDate": "2018-05-02T17:07:14Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=234104607",
+        "priority": "199044008000000000006400"
+    },
+    {
+        "id": "IEAB7KHGKQG7IJQI",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Tim McCollough (Utilities - Light and Power)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-05-02T17:06:28Z",
+        "updatedDate": "2018-05-02T17:06:48Z",
+        "completedDate": "2018-05-02T17:06:33Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=234104328",
+        "priority": "18f048008000000000008a00"
+    },
+    {
+        "id": "IEAB7KHGKQG6XOWE",
+        "accountId": "IEAB7KHG",
+        "title": "Complete 'Introduction to Data Analysis for Government' (course 1/4) before the conference",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-30T23:27:13Z",
+        "updatedDate": "2018-04-30T23:27:19Z",
+        "completedDate": "2018-04-30T23:27:19Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=233552580",
+        "priority": "194bc8008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQG6XF4I",
+        "accountId": "IEAB7KHG",
+        "title": "Gain access to OpenCity mailing list",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-30T22:26:35Z",
+        "updatedDate": "2018-04-30T22:27:49Z",
+        "completedDate": "2018-04-30T22:26:51Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=233543560",
+        "priority": "194af0007fffffffffff9400"
+    },
+    {
+        "id": "IEAB7KHGKQG433M4",
+        "accountId": "IEAB7KHG",
+        "title": "Look through Open Book to get an idea of what's in the Expenditures module",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T16:51:40Z",
+        "updatedDate": "2018-04-26T20:01:46Z",
+        "completedDate": "2018-04-26T20:01:46Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 960,
+            "start": "2018-04-23T09:00:00",
+            "due": "2018-04-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231599516",
+        "priority": "17ba38008000000000002c00"
+    },
+    {
+        "id": "IEAB7KHGKQG574A2",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Andrea Schweitzer (Utilities - Water)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-26T19:32:39Z",
+        "updatedDate": "2018-04-26T19:33:24Z",
+        "completedDate": "2018-04-26T19:33:12Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=232779802",
+        "priority": "18f048008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQG5TADE",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Lori Frank (PD)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-25T17:08:54Z",
+        "updatedDate": "2018-04-25T17:08:58Z",
+        "completedDate": "2018-04-25T17:08:58Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=232357988",
+        "priority": "18c0cc008000000000007c00"
+    },
+    {
+        "id": "IEAB7KHGKQG5GXD7",
+        "accountId": "IEAB7KHG",
+        "title": "Meet with Amy R (CPIO)",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-24T15:55:27Z",
+        "updatedDate": "2018-04-24T16:13:41Z",
+        "completedDate": "2018-04-24T16:13:41Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-04-24T09:00:00",
+            "due": "2018-04-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231955583",
+        "priority": "17ba38008000000000002e00"
+    },
+    {
+        "id": "IEAB7KHGKQG47ZBN",
+        "accountId": "IEAB7KHG",
+        "title": "Backup Wrike via API or find a free project management alternative",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T23:03:23Z",
+        "updatedDate": "2018-04-24T15:30:56Z",
+        "completedDate": "2018-04-24T15:30:56Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-04-25T09:00:00",
+            "due": "2018-04-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231728173",
+        "priority": "187ab4008000000000008800"
+    },
+    {
+        "id": "IEAB7KHGKQG44ICC",
+        "accountId": "IEAB7KHG",
+        "title": "Organize Open Data Portal directory",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-23T17:22:04Z",
+        "updatedDate": "2018-04-23T22:56:57Z",
+        "completedDate": "2018-04-23T22:56:57Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 960,
+            "start": "2018-04-23T09:00:00",
+            "due": "2018-04-24T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=231612482",
+        "priority": "186e50007fffffffffffc800"
+    },
+    {
+        "id": "IEAB7KHGKQG2VYJR",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Lori (police department) re their data and needs regarding the Open Data initiative",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:39:24Z",
+        "updatedDate": "2018-04-19T16:38:09Z",
+        "completedDate": "2018-04-19T15:39:44Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-04-30T09:00:00",
+            "due": "2018-05-04T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229302577",
+        "priority": "17e69c008000000000005a00"
+    },
+    {
+        "id": "IEAB7KHGKQG2VWMZ",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Michael Authier re his parcel address database",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:34:09Z",
+        "updatedDate": "2018-04-19T15:42:45Z",
+        "completedDate": "2018-04-19T15:42:45Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-04-23T09:00:00",
+            "due": "2018-04-27T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229300633",
+        "priority": "1750d0008000000000000400"
+    },
+    {
+        "id": "IEAB7KHGKQG2VWYX",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Marcus Bodig re GIS ETL processes, capabilities of Accela vs ArcGiS",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:35:18Z",
+        "updatedDate": "2018-04-19T15:40:17Z",
+        "completedDate": "2018-04-19T15:40:17Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 2400,
+            "start": "2018-04-16T09:00:00",
+            "due": "2018-04-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229301015",
+        "priority": "1750dc008000000000001000"
+    },
+    {
+        "id": "IEAB7KHGKQG2VXBQ",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Tim McCollough (electric utility executive director) re uses/needs of data warehousing / open data",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-13T16:36:10Z",
+        "updatedDate": "2018-04-19T15:39:33Z",
+        "completedDate": "2018-04-19T15:39:33Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-04-18T09:00:00",
+            "due": "2018-04-20T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229301296",
+        "priority": "1750e000800000000000b400"
+    },
+    {
+        "id": "IEAB7KHGKQG34FJY",
+        "accountId": "IEAB7KHG",
+        "title": "Complete CJIS certification",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-18T21:40:27Z",
+        "updatedDate": "2018-04-18T21:40:31Z",
+        "completedDate": "2018-04-18T21:40:31Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=230561080",
+        "priority": "17e65c008000000000003c00"
+    },
+    {
+        "id": "IEAB7KHGKQGZYM2D",
+        "accountId": "IEAB7KHG",
+        "title": "Complete 'Outside Work Disclosure/Update' form to disclose contract work",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T20:16:50Z",
+        "updatedDate": "2018-04-18T19:02:32Z",
+        "completedDate": "2018-04-18T19:02:32Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 960,
+            "start": "2018-04-18T09:00:00",
+            "due": "2018-04-19T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228340547",
+        "priority": "16e13400800000000000a400"
+    },
+    {
+        "id": "IEAB7KHGKQG32GCK",
+        "accountId": "IEAB7KHG",
+        "title": "Complete and acknowledge JDE 'Policies and Procedures' section",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-18T18:38:11Z",
+        "updatedDate": "2018-04-18T18:38:17Z",
+        "completedDate": "2018-04-18T18:38:17Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=230496330",
+        "priority": "17dda4007ffffffffffffc00"
+    },
+    {
+        "id": "IEAB7KHGKQGZZQVD",
+        "accountId": "IEAB7KHG",
+        "title": "Look into whether I can access advanced usage metadata via Socrata",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T22:14:22Z",
+        "updatedDate": "2018-04-18T17:33:47Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=228377251",
+        "priority": "16e504008000000000007000"
+    },
+    {
+        "id": "IEAB7KHGKQG3FLHS",
+        "accountId": "IEAB7KHG",
+        "title": "Check out Boulder's open data network",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-16T19:36:57Z",
+        "updatedDate": "2018-04-16T21:02:51Z",
+        "completedDate": "2018-04-16T21:02:51Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-04-16T09:00:00",
+            "due": "2018-04-16T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229813490",
+        "priority": "1707d4008000000000002180"
+    },
+    {
+        "id": "IEAB7KHGKQG3CM76",
+        "accountId": "IEAB7KHG",
+        "title": "Talk with Arlene Yusnukis re private datasets run by IT",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-16T15:46:54Z",
+        "updatedDate": "2018-04-16T19:06:28Z",
+        "completedDate": "2018-04-16T19:06:28Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-04-16T09:00:00",
+            "due": "2018-04-16T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=229716990",
+        "priority": "1707d4008000000000002100"
+    },
+    {
+        "id": "IEAB7KHGKQG2DMIF",
+        "accountId": "IEAB7KHG",
+        "title": "Discuss Data Governance Handbook updates with Dan, discuss VM admin rights",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-11T19:39:04Z",
+        "updatedDate": "2018-04-13T14:29:24Z",
+        "completedDate": "2018-04-13T14:29:24Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 480,
+            "start": "2018-04-12T09:00:00",
+            "due": "2018-04-12T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228700421",
+        "priority": "1707d4008000000000002000"
+    },
+    {
+        "id": "IEAB7KHGKQG2E2V7",
+        "accountId": "IEAB7KHG",
+        "title": "Watch training video on Citizen Connect Site Administration",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-04-11T22:16:02Z",
+        "updatedDate": "2018-04-11T22:17:14Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=228747967",
+        "priority": "170cb4008000000000003400"
+    },
+    {
+        "id": "IEAB7KHGKQG2E2ST",
+        "accountId": "IEAB7KHG",
+        "title": "Watch training video of Performance Site Administration",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-04-11T22:15:37Z",
+        "updatedDate": "2018-04-11T22:16:54Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=228747859",
+        "priority": "170cb0007ffffffffffffc00"
+    },
+    {
+        "id": "IEAB7KHGKQGZWRKE",
+        "accountId": "IEAB7KHG",
+        "title": "Finish Socrata online training videos",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:04:34Z",
+        "updatedDate": "2018-04-11T22:15:16Z",
+        "completedDate": "2018-04-11T22:15:16Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-04-11T09:00:00",
+            "due": "2018-04-16T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228279620",
+        "priority": "16dc5c008000000000003700"
+    },
+    {
+        "id": "IEAB7KHGKQGZYNEU",
+        "accountId": "IEAB7KHG",
+        "title": "Go through Ninjio videos",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T20:17:30Z",
+        "updatedDate": "2018-04-11T22:05:49Z",
+        "completedDate": "2018-04-11T22:05:49Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1920,
+            "start": "2018-04-10T09:00:00",
+            "due": "2018-04-13T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228340884",
+        "priority": "16dc48008000000000000f80"
+    },
+    {
+        "id": "IEAB7KHGKQGZWRDS",
+        "accountId": "IEAB7KHG",
+        "title": "Read through Data Governance Policies",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:03:49Z",
+        "updatedDate": "2018-04-11T19:38:53Z",
+        "completedDate": "2018-04-11T19:38:53Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228279410",
+        "priority": "16dc5c008000000000003600"
+    },
+    {
+        "id": "IEAB7KHGKQGZWRHH",
+        "accountId": "IEAB7KHG",
+        "title": "Go through CityNet Welcome Aboard page",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:04:13Z",
+        "updatedDate": "2018-04-11T15:01:00Z",
+        "completedDate": "2018-04-11T15:01:00Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228279527",
+        "priority": "16dc48008000000000000f00"
+    },
+    {
+        "id": "IEAB7KHGKQGZWQF2",
+        "accountId": "IEAB7KHG",
+        "title": "Getting Started",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:01:51Z",
+        "updatedDate": "2018-04-10T20:22:52Z",
+        "completedDate": "2018-04-10T18:02:22Z",
+        "dates": {
+            "type": "Planned",
+            "duration": 1440,
+            "start": "2018-04-10T09:00:00",
+            "due": "2018-04-12T17:00:00"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228278458",
+        "priority": "16dc48008000000000000c00"
+    },
+    {
+        "id": "IEAB7KHGKQGZWQWO",
+        "accountId": "IEAB7KHG",
+        "title": "Read through Personnel Policies",
+        "status": "Completed",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:03:24Z",
+        "updatedDate": "2018-04-10T20:22:43Z",
+        "completedDate": "2018-04-10T20:17:40Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAB",
+        "permalink": "https://www.wrike.com/open.htm?id=228278990",
+        "priority": "16dc48008000000000000e00"
+    },
+    {
+        "id": "IEAB7KHGKQGZWRNN",
+        "accountId": "IEAB7KHG",
+        "title": "Review Socrata SODA",
+        "status": "Deferred",
+        "importance": "Normal",
+        "createdDate": "2018-04-10T18:05:04Z",
+        "updatedDate": "2018-04-10T20:20:30Z",
+        "dates": {
+            "type": "Backlog"
+        },
+        "scope": "WsTask",
+        "customStatusId": "IEAB7KHGJMAAAAAC",
+        "permalink": "https://www.wrike.com/open.htm?id=228279725",
+        "priority": "16dc64008000000000001c00"
+    }
+]

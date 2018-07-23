@@ -1,0 +1,178 @@
+[
+    {
+        "id": "IEAB7KHGIMDXDQL2",
+        "authorId": "KUAD6KNL",
+        "text": "Council Expenses has been updated. &#39;council_expenses.py&#39; combines all XLSXs in the Council Expenses directory and is in the &#39;python&#39; dir on &#96;socrata&#96;. The DataSync SIJ file is in the &#39;datasync&#39; directory.<br />",
+        "updatedDate": "2018-07-19T15:16:44Z",
+        "createdDate": "2018-07-19T15:16:44Z",
+        "taskId": "IEAB7KHGKQHSNYRQ"
+    },
+    {
+        "id": "IEAB7KHGIMDXCBC7",
+        "authorId": "KUAD6KNL",
+        "text": "Justin has OK&#39;d my timeline (soft launch on 7/23, rebrand complete / FC publicity starting 7/30, Socrata publicity 8/6).<br />",
+        "updatedDate": "2018-07-19T14:13:21Z",
+        "createdDate": "2018-07-19T14:13:21Z",
+        "taskId": "IEAB7KHGKQHTHLDC"
+    },
+    {
+        "id": "IEAB7KHGIMDWYRM3",
+        "authorId": "KUAD6KNL",
+        "text": "I have the Council Expenses dataset and have converted it to CSV. I was going to set it up as an &#39;append&#39; operation with DataSync, but I&#39;m just going to join everything with Python into a master CSV and upload &#39;replace&#39; with that for now.<br />",
+        "updatedDate": "2018-07-18T21:50:15Z",
+        "createdDate": "2018-07-18T21:50:15Z",
+        "taskId": "IEAB7KHGKQHSNYRQ"
+    },
+    {
+        "id": "IEAB7KHGIMDWYLVN",
+        "authorId": "KUAD6KNL",
+        "text": "Apparently Montgomery, AL has an Alexa Skill and they&#39;ve published their code to Github; I can&#39;t seem to find it<br />",
+        "updatedDate": "2018-07-18T21:38:20Z",
+        "createdDate": "2018-07-18T21:38:20Z",
+        "taskId": "IEAB7KHGKQHFQKMB"
+    },
+    {
+        "id": "IEAB7KHGIMDWYLLH",
+        "authorId": "KUAD6KNL",
+        "text": "Awaiting reply from Socrata as of July 16<br />",
+        "updatedDate": "2018-07-18T21:37:39Z",
+        "createdDate": "2018-07-18T21:37:39Z",
+        "taskId": "IEAB7KHGKQHFQKMB"
+    },
+    {
+        "id": "IEAB7KHGIMDWYJXV",
+        "authorId": "KUAD6KNL",
+        "text": "Awaiting response from Jan<br />",
+        "updatedDate": "2018-07-18T21:34:03Z",
+        "createdDate": "2018-07-18T21:34:03Z",
+        "taskId": "IEAB7KHGKQHTYGZG"
+    },
+    {
+        "id": "IEAB7KHGIMDWXPJ6",
+        "authorId": "KUAD6KNL",
+        "text": "This is no longer necessary as this page will no longer be the public face of OpenBook<br />",
+        "updatedDate": "2018-07-18T20:46:03Z",
+        "createdDate": "2018-07-18T20:46:03Z",
+        "taskId": "IEAB7KHGKQHNXCSX"
+    },
+    {
+        "id": "IEAB7KHGIMDV6URY",
+        "authorId": "KUAD6KNL",
+        "text": "Emailed Wendy Bricher about the Council Expenses dataset<br />",
+        "updatedDate": "2018-07-17T16:31:13Z",
+        "createdDate": "2018-07-17T16:31:13Z",
+        "taskId": "IEAB7KHGKQHSNYRQ"
+    },
+    {
+        "id": "IEAB7KHGIMDV5RQB",
+        "authorId": "KUAD6KNL",
+        "text": "Emailed John Phelan about the Solar Systems Data<br />",
+        "updatedDate": "2018-07-17T15:43:37Z",
+        "createdDate": "2018-07-17T15:43:37Z",
+        "taskId": "IEAB7KHGKQHSNYRQ"
+    },
+    {
+        "id": "IEAB7KHGIMDV5JOP",
+        "authorId": "KUAD6KNL",
+        "text": "Awaiting David&#39;s response to a 2018-07-23 launch date<br />",
+        "updatedDate": "2018-07-17T15:33:52Z",
+        "createdDate": "2018-07-17T15:33:52Z",
+        "taskId": "IEAB7KHGKQHSNVDV"
+    },
+    {
+        "id": "IEAB7KHGIMDV5JBK",
+        "authorId": "KUAD6KNL",
+        "text": "Ginny responded by advising me not to wait on ELT presentation (which is scheduled for Sept 5) for launch<br />",
+        "updatedDate": "2018-07-17T15:33:27Z",
+        "createdDate": "2018-07-17T15:33:27Z",
+        "taskId": "IEAB7KHGKQHSNVDV"
+    },
+    {
+        "id": "IEAB7KHGIMDVM4KH",
+        "authorId": "KUAD6KNL",
+        "text": "Abe set me up with a user in the JDE warehouse. The user is OPENDATA and the password is stored in LastPass.<br />",
+        "updatedDate": "2018-07-16T18:00:45Z",
+        "createdDate": "2018-07-16T18:00:45Z",
+        "taskId": "IEAB7KHGKQHLLMEL"
+    },
+    {
+        "id": "IEAB7KHGIMDVMSX4",
+        "authorId": "KUAD6KNL",
+        "text": "Socrata Support has pushed this to their engineering team<br />",
+        "updatedDate": "2018-07-16T17:44:56Z",
+        "createdDate": "2018-07-16T17:44:56Z",
+        "taskId": "IEAB7KHGKQHE4CF4"
+    },
+    {
+        "id": "IEAB7KHGIMDVMSCI",
+        "authorId": "KUAD6KNL",
+        "text": "Emailed Abe asking for next steps<br />",
+        "updatedDate": "2018-07-16T17:43:46Z",
+        "createdDate": "2018-07-16T17:43:46Z",
+        "taskId": "IEAB7KHGKQHLLMEL"
+    },
+    {
+        "id": "IEAB7KHGIMDVMROM",
+        "authorId": "KUAD6KNL",
+        "text": "Going with Oracle as the lesser of two evils. Since we have a DBA, the relative difficulty with adminstering Oracle is inconsequential, I already have Oracle SQL Developer (as a GUI), and the Python connector (cx_Oracle) is developed by Oracle and well-documented (as opposed to SQL Server, which prefers &#39;pyodbc&#39;, an open-source connector not associated with Microsoft that has difficult-to-find documentation, and has severely-outdated installation instructions by Microsoft).<br />",
+        "updatedDate": "2018-07-16T17:42:40Z",
+        "createdDate": "2018-07-16T17:42:40Z",
+        "taskId": "IEAB7KHGKQHLLMEL"
+    },
+    {
+        "id": "IEAB7KHGIMDVL5YS",
+        "authorId": "KUAD6KNL",
+        "text": "Request has been made to Socrata to have the Asset Inventory Dataset set up. This will allow pulling it into Performance Metrics automatically, among other things.<br />",
+        "updatedDate": "2018-07-16T17:13:21Z",
+        "createdDate": "2018-07-16T17:13:21Z",
+        "taskId": "IEAB7KHGKQHE4CF4"
+    },
+    {
+        "id": "IEAB7KHGIMDVLXUB",
+        "authorId": "KUAD6KNL",
+        "text": "Resent request<br />",
+        "updatedDate": "2018-07-16T17:04:18Z",
+        "createdDate": "2018-07-16T17:04:18Z",
+        "taskId": "IEAB7KHGKQG3BZUC"
+    },
+    {
+        "id": "IEAB7KHGIMDVLWTT",
+        "authorId": "KUAD6KNL",
+        "text": "Included in metadata creation task<br />",
+        "updatedDate": "2018-07-16T17:02:52Z",
+        "createdDate": "2018-07-16T17:02:52Z",
+        "taskId": "IEAB7KHGKQHQ47SN"
+    },
+    {
+        "id": "IEAB7KHGIMDVLWMU",
+        "authorId": "KUAD6KNL",
+        "text": "Included in the metadata standard creation task<br />",
+        "updatedDate": "2018-07-16T17:02:29Z",
+        "createdDate": "2018-07-16T17:02:29Z",
+        "taskId": "IEAB7KHGKQHPMHC4"
+    },
+    {
+        "id": "IEAB7KHGIMDVLQ6N",
+        "authorId": "KUAD6KNL",
+        "text": "No specific segments that this will affect more than others<br />",
+        "updatedDate": "2018-07-16T16:54:41Z",
+        "createdDate": "2018-07-16T16:54:41Z",
+        "taskId": "IEAB7KHGKQHSRBYN"
+    },
+    {
+        "id": "IEAB7KHGIMDVLQFZ",
+        "authorId": "KUAD6KNL",
+        "text": "Recheduling until 8/10<br />",
+        "updatedDate": "2018-07-16T16:53:44Z",
+        "createdDate": "2018-07-16T16:53:44Z",
+        "taskId": "IEAB7KHGKQHF75P4"
+    },
+    {
+        "id": "IEAB7KHGIMDVKLO3",
+        "authorId": "KUAD6KNL",
+        "text": "The choices are Oracle and SQL Server. Talk to Abe re setting up one of the two.<br />",
+        "updatedDate": "2018-07-16T16:03:10Z",
+        "createdDate": "2018-07-16T16:03:10Z",
+        "taskId": "IEAB7KHGKQHLLMEL"
+    }
+]
