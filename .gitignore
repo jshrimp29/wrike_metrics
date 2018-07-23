@@ -51,7 +51,7 @@ Thumbs.db
 # User-specific files #
 #######################
 *.credentials
-wrike_files/*
+wrike_metrics/wrike_files/*
 
 # exception to the rule
-!wrike_files/.gitkeep 
+!wrike_metrics/wrike_files/.gitkeep 
