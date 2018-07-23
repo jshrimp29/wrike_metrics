@@ -15,7 +15,7 @@ kwargs = {
     "name": "wrike_metrics",
     "version": str(__version__),
     "packages": ['wrike_metrics'],
-    "package_data": {'': ['*.credentials']},
+    "package_data": {'': ['*.credentials','wrike_files/*']},
     "include_package_data": True,
     "description": "Python module to transform tasks on the Wrike platform and run performance metrics",
     "long_description": long_description,

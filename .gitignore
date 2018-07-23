@@ -13,6 +13,12 @@
 __pycache__
 **/__pycache__
 
+# Install helpers #
+###################
+build
+*.egg-info
+dist
+
 # Packages #
 ############
 # it's better to unpack these files and commit the raw source

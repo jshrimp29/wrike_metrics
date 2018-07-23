@@ -1,1 +1,2 @@
 include *.credentials
+recursive-include wrike_metrics/wrike_files

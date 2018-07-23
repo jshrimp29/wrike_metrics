@@ -161,6 +161,6 @@ class PerfMetrics:
             # Dump the JSON to the specified file in pretty format (4 indents per section)
             with open(os.path.join(self.root,'wrike_files',valname+'.json'),'r') as fp:
                 setattr(self,valname,json.load(fp))
-    
+
 if __name__ == '__main__':
     wrikeTasks = PerfMetrics()    
